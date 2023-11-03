@@ -1,0 +1,2 @@
+update customers set nama = 'ace', email = 'ace@gmail.com', alamat = 'jl. 789', no_telp = '0987654321' where id = 1;
+update customers set nama = 'oscar', email = 'oscar@gmail.com', alamat = 'jl. abc', no_telp = '1234567890' where id = 1;
